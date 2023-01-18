@@ -4,7 +4,7 @@
 </h2><br>
 <ul>
   <li> Meu nome é Yasmim Barros mas podem me chamar de Yas; </li>
-  <li> Tenho 21 anos e estou mudando da área da Química para a de T.I; </li>
+  <li> Tenho 21 anos e estou cursando Bacharelado em Sistemas de Informações na UFRA; </li>
   <li> Atualmente estudo JavaScript utilizando o framework React; </li>
   <li> Pronomes: ela/dela.
 </ul>
