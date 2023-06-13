@@ -4,7 +4,6 @@
 </h2><br>
 <ul>
   <li> Meu nome é Yasmim Barros mas podem me chamar de Yas;</li>
-  <li> Tenho 22 anos e estou cursando Bacharelado em Sistemas de Informações na UFRA;</li>
-  <li> Atualmente estudo JavaScript utilizando o framework Angular;</li>
+  <li> Tenho 23 anos e estou cursando Bacharelado em Sistemas de Informações na UFRA;</li>
 </ul>
 </div>
